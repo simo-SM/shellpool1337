@@ -1,5 +1,9 @@
 # ShellPool1337
 
+<!-- Banner -->
+
+<img src="assets/1337-banner.png" alt="1337 Banner" width="1100">
+
 > Project: Shell scripts and training challenges for 1337 students
 
 ---
@@ -7,35 +11,6 @@
 ## Description
 
 This repository contains Bash/Shell scripts and training exercises intended for 1337 students. The goal is to provide reusable resources, examples, and practice challenges to improve your Shell skills.
-
-## Images (Optimized for PC)
-
-To make your README look clean on desktop screens (PC), use the following image recommendations:
-
-* **Banner**: Width between `1000px` and `1280px`, height between `300px` and `400px`.
-* **Screenshots / Thumbnails**: Around `800px` width.
-
-### How to Add Images With Size Control
-
-Place your images inside the `assets/` folder, then insert them in the README using one of these methods:
-
-**1) HTML tag (recommended — allows custom width):**
-
-```html
-<!-- Banner at 1000px width -->
-<img src="assets/1337-banner.png" alt="1337 Banner" width="1000">
-
-<!-- Screenshot at 800px width -->
-<img src="assets/screenshot-1.png" alt="Screenshot" width="800">
-```
-
-**2) Standard Markdown (does NOT allow size control):**
-
-```markdown
-![1337 Banner](assets/1337-banner.png)
-```
-
-If using Markdown and you want a smaller size, resize the image before uploading.
 
 ## Installation
 
