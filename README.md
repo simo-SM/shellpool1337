@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 
-![image alt]()
+![image alt](https://github.com/simo-SM/shellpool1337/blob/73c6189225272c5f48f2c21fd0878cbb9d1507ed/Web%201920%20%E2%80%93%201.png)
 
 > Project: Shell scripts and training challenges for 1337 students
 
