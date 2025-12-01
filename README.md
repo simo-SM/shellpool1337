@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 
-<img src="assets/1337-banner.png" alt="1337 Banner" width="1100">
+![image alt]()
 
 > Project: Shell scripts and training challenges for 1337 students
 
